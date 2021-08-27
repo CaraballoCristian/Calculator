@@ -122,6 +122,7 @@ body {
     width: 10vh;
     max-height: 80%;
     max-width: 80%;
+    min-width: 30px;
 }
 
 #clean,
@@ -160,6 +161,4 @@ body {
     background-color: rgba(141, 216, 241, 0.9);
 }
 
-#indice {
-    padding-bottom: 35%;
-}
+#
